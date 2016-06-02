@@ -20,7 +20,7 @@ Stick the system information into the 'inventory' file.
 
 See the `pre-setup/` directory.
 
-### Configure your cluster
+### Configure your cluster 222
 
 Configure `group_vars/all.yml` to reflect your needs. The options should be
 described there in full detail.
